@@ -52,7 +52,7 @@ The data pipeline follows a four-phase approach:
 </ol>
 
 <span style="color:#D0D0D0; font-size:0.9em;">
-The process outputs three complementary Analytical Base Tables (ABTs): at the order, product, and customer level — ready for modeling.
+The process outputs three complementary Analytical Base Tables (ABTs): at the order, product, and customer level, ready for modeling.
 </span>
 
 <p align="center">
@@ -85,7 +85,7 @@ The engineered features derived from the initial columns span the following anal
 
 <span style="color:#D0D0D0; font-size:0.9em;">
 The pipeline successfully processed 100,000+ orders across a 2-year period, reducing analytical query complexity by merging 9 tables into 3 purpose-built ABTs.  
-The engineered features enable advanced analytics — including RFM customer segmentation, delivery KPI monitoring, seller performance benchmarking, and product catalog optimization — all without complex multi-table joins at query time.
+The engineered features enable advanced analytics, including RFM customer segmentation, delivery KPI monitoring, seller performance benchmarking, and product catalog optimization — all without complex multi-table joins at query time.
 </span>
 
 ---
