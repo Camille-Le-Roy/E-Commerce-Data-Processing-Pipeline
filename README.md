@@ -93,6 +93,5 @@ The engineered features enable advanced analytics — including RFM customer seg
 ## Code
 
 <p style="color:#D0D0D0; font-size:0.9em; margin-top:1em;">
-This pipeline is implemented in Python and openly available on  
-<a href="https://github.com.git" target="_blank" style="color:#3B82F6; text-decoration:none; font-weight:bold;">GitHub</a>.
+This pipeline is implemented in Python and available in this Jupiter Notebook.
 </p>
