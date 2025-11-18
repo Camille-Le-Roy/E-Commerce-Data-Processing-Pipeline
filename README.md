@@ -93,7 +93,7 @@ The engineered features enable advanced analytics, including RFM customer segmen
 ## Code
 
 <p style="color:#D0D0D0; font-size:0.9em; margin-top:1em;">
-This pipeline is implemented in Python and available in <a href="[https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://github.com/Camille-Le-Roy/E-Commerce-Data-Processing-Pipeline/blob/main/Olist_data_processing.ipynb)" target="_blank" style="color:#D0D0D0; text-decoration:underline;">this Jupiter Notebook</a>.
+This pipeline is implemented in Python and available in <a href="https://github.com/Camille-Le-Roy/E-Commerce-Data-Processing-Pipeline/blob/main/Olist_data_processing.ipynb" target="_blank" style="color:#D0D0D0; text-decoration:underline;">this Jupiter Notebook</a>.
 </p>
 
 
