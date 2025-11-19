@@ -65,7 +65,7 @@ The process outputs three complementary Analytical Base Tables (ABTs): at the or
 
 ---
 
-## Key Features
+## Engineered Features
 
 <span style="color:#D0D0D0; font-size:0.9em;">
 The engineered features derived from the initial columns span the following analytical dimensions:
